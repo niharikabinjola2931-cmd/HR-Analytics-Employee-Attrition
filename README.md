@@ -1,4 +1,4 @@
-# HR Analytics Dashboard (Excel)
+8# HR Analytics Dashboard (Excel)
 
 ## Overview
 
@@ -38,7 +38,6 @@ This project analyzes employee data to understand workforce trends related to at
 
 * Dataset.xlsx
 * Dashboard Screenshot.png
-* Dashboard Walkthrough Video.mp4
 
 ## Skills Demonstrated
 
